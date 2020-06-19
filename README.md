@@ -55,7 +55,7 @@ applications:
 
   
 
-`git clone https://github.com/badafans/v2ray-cloudfoundry.git`
+`git clone https://github.com/big51bba/v2ray-cloudfoundry.git`
 
 `cd v2ray-cloudfoundry/v2ray`
 
